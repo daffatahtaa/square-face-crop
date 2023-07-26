@@ -1,5 +1,6 @@
 # square-face-crop
-## tldr: A python script to batch crop a face on a directory / a folder
+
+#### tldr: A python script to batch crop a face on a directory / a folder
 
 # Face Detection and Clustering Tool
 
