@@ -62,6 +62,8 @@ Note: If no faces are detected in the images, the script will log a warning and 
 - The minimum size of face images after resizing is set to 768 pixels (adjustable in the script).
 - The script logs the process and results in a "script_log.txt" file within the script directory.
 
+I personally use this script with gallery-dl to scrape the image and then use this script to make a LoRa model for stable diffusion.
+
 Feel free to customize and use this script according to your requirements. If you have any questions or face any issues, please let me know.
 
 Enjoy face detection and clustering with ease!
